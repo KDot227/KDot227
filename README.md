@@ -1,5 +1,5 @@
 ### What's goodie gang
 
-Here are some ideas to get you started:
+Timmy can't code
 
 on bd timmy is fat + batch && powershell >>>>
