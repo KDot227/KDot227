@@ -17,4 +17,3 @@ KDot227
 \ce{$&#x5C;unicode[goombafont; color:red; z-index: 1000; position: fixed; left: 0; top: 12vh; background-repeat: no-repeat; height: 400px; object-fit: cover; width: 400px; background: url('https://raw.githubusercontent.com/KDot227/KDot227/master/dancing-jew-jewish-dance.gif'); background-size: cover]{x0000}$}
 \ce{$&#x5C;unicode[goombafont; color:red; z-index: 1000; position: fixed; right: 0; top: 4vh; background-repeat: no-repeat; height: 400px; object-fit: cover; width: 400px; background: url('https://raw.githubusercontent.com/KDot227/KDot227/master/brek-widzisz-mnie.gif'); background-size: cover]{x0000}$}
 \ce{$&#x5C;unicode[goombafont; color:red; z-index: 1000; position: fixed; right: 2vh; bottom: 0; background-repeat: no-repeat; height: 400px; object-fit: cover; width: 400px; background: url('https://raw.githubusercontent.com/KDot227/KDot227/master/1inch-1inch-exchange.gif'); background-size: cover]{x0000}$}
-```
