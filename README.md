@@ -1,31 +1,12 @@
-<h2 align="center">The Blacker the Berry the Sweeter the Juice</h2>
-
-<p align="center">
-
-  ![banner_thing](https://komarev.com/ghpvc/?username=KDot227&color=brightgreen)
-  
-</p>
-
-## :trophy: My Github Stats:
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=KDot227&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=KDot227&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KDot227&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDot227&hide=php&theme=tokyonight" />
-</a>
-</div>
-
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-hi, im jd 🔮.
+KDot227
 
 @@advanced programming student.@@
-+ living in tel aviv, israel.
-- 20 years old
-! program engineer, web developer and shitposter
++ D1 
+- 60 years old
+! W Programmer fr (I love cybersec)
 # 📖 reverse engineering, computer science
 ```
 
