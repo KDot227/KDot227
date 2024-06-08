@@ -12,7 +12,7 @@ KDot227
 
 ```math
 \ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://raw.githubusercontent.com/KDot227/KDot227/master/miber.gif'); background-repeat: repeat;]{x0000}$}
-\ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; left: 0; bottom: 0; background-repeat: no-repeat; height: 400px; object-fit: cover; width: 800px; background: url('https://raw.githubusercontent.com/KDot227/KDot227/master/temp.gif'); background-size: cover]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; left: 0; background-repeat: no-repeat; height: 400px; object-fit: cover; width: 400px; background: url('https://raw.githubusercontent.com/KDot227/KDot227/master/temp.gif'); background-size: cover]{x0000}$}
 \ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; right: 5vh; background-repeat: no-repeat; height: 400px; object-fit: cover; width: 400px; background: url('https://raw.githubusercontent.com/KDot227/KDot227/master/real-life-batman.gif'); background-size: cover]{x0000}$}
 \ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; left: 0; top: 12vh; background-repeat: no-repeat; height: 400px; object-fit: cover; width: 400px; background: url('https://raw.githubusercontent.com/KDot227/KDot227/master/dancing-jew-jewish-dance.gif'); background-size: cover]{x0000}$}
 \ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; right: 0; top: 4vh; background-repeat: no-repeat; height: 400px; object-fit: cover; width: 400px; background: url('https://raw.githubusercontent.com/KDot227/KDot227/master/brek-widzisz-mnie.gif'); background-size: cover]{x0000}$}
